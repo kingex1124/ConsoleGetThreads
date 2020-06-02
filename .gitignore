@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/ConsoleGetThreads/v16
+/ConsoleGetThreads/bin/Debug
+/ConsoleGetThreads/obj/Debug
